@@ -47,8 +47,11 @@ A custom-built hardware interface utilizing the **MPU6050** gyroscopic sensor to
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakhapta&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakhapta&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.shion.dev/api?username=rakhapta&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+![](https://streak-stats.demolab.com/?user=rakhapta&theme=dark&hide_border=false)<br/>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rakhapta&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
