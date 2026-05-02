@@ -47,8 +47,8 @@ A custom-built hardware interface utilizing the **MPU6050** gyroscopic sensor to
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?rakhapta=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?rakhapta=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakhapta&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakhapta&layout=compact&theme=tokyonight)
 
 ---
 
@@ -61,7 +61,7 @@ A custom-built hardware interface utilizing the **MPU6050** gyroscopic sensor to
 
 ## 📫 Let's Connect!
 
-*   **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/rakhapta)
+*   **LinkedIn:** [linkedin.com/in/rakhapta](https://linkedin.com/in/rakhapta)
 *   **Location:** Malang, Indonesia 🇮🇩
 *   **Email:** [rakhapta@gmail.com]
 
